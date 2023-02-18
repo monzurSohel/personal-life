@@ -10,3 +10,4 @@ logo alignment is centered.
 logo alignment is ok.
 logo ic alignment.
 new line is added in feature branch.
+
